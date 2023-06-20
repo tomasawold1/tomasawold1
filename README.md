@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomasawold1
-- 👀 I’m interested in ... Business Analytics and Data Sceince
+- 👀 I’m interested in ... Business Analytics and Data Sceince.
 - 🌱 I’m currently learning ... Business Analytics
 - 📫 How to reach me ... you can real me via my email.
 
